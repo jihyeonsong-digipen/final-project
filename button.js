@@ -20,6 +20,12 @@ class Button {
     push();
     scale(0.1);
     image(arrow, 150, 150)
+
+    if (this.mouseIsOver) {
+      if (mouseIsPressed) {
+        click.play();
+      }
+    }
     pop();
   }
 
@@ -32,6 +38,7 @@ class Button {
       if (mouseIsPressed) {
         fill_color = 0;
         label_offset = 1;
+        click.play();
       } else {
         fill_color = 170;
       }

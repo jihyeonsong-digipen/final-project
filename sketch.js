@@ -8,6 +8,7 @@ function preload() {
   playingmusic2 = loadSound('Sound/music2.mp3');
   lose = loadSound('Sound/gameover.wav');
   win = loadSound('Sound/clapping.wav');
+  click = loadSound('Sound/click.wav');
   eat = loadSound('Sound/eating.mp3');
 
   backimage = loadImage('Image/sea.jpg');
