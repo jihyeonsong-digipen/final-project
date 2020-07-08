@@ -1,4 +1,4 @@
-#### First, I got all the images from 'Pixabay'.
+#### First, I got all the images(sea.jpg, fish.png, mouse.png, arrow.png) from 'Pixabay'.
 This is the image license information.
 
 Simplified Pixabay License
@@ -19,7 +19,7 @@ This section only applies to image users and not to the appropriate image author
 
 
 
-#### Second, I got the background music(music1.mp3, music2.mp3) from 'Bensound'.
+#### Second, I got all the background music(music1.mp3, music2.mp3) from 'Bensound'.
 This is the music license information.
 
 FREE LICENSE WITH ATTRIBUTION
@@ -35,7 +35,7 @@ You can use our music for Facebook videos but you cannot registered them to the 
 
 
 
-#### Third, I got the SFX(gameover.wav, clapping.wav, eating.mp3) sound from 'Freesound'.
+#### Third, I got all the SFX(gameover.wav, clapping.wav, click.wav, eating.mp3) sound from 'Freesound'.
 This is the sound license information.
 
 General use of the website
@@ -48,7 +48,7 @@ Independently of any free or open source software or content license that may ap
 
 
 
-#### And lastly, I got the fonts from 'naver font'.
+#### And lastly, I got all the fonts from 'Greenegg'.
 This is the font license information.
 
 The intellectual property rights of BOKEH, I AM A PLAYER, CROOKED are in Greenegg.
@@ -58,7 +58,7 @@ However, selling the font itself for a fee is prohibited. If you are using the I
 e.g.) I AM A PLAYER (designed by greenegg.co.kr)
 e.g.) This page is covered by I AM A PLAYER Font provided by greenegg.co.kr.
 
-Copyright © 2016, greenegg (http://www.greenegg.co.kr), with Reserved Font Name I AM A PLAYER.
+Copyright © 2016, greenegg (http://www.greenegg.co.kr), with Reserved Font Name BOKEH, I AM A PLAYER, CROOKED.
 Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software,
 to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified
 copies of the Font Software, subject to the following conditions
